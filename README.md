@@ -10,7 +10,7 @@ This project provides two approaches for relation extraction classification usin
 
 2. In the Colab notebook, execute the cells one by one to install the required libraries and load the necessary functions.
 
-3. Upload the `glove.6B.100d.txt` file for the neural-based approach. You can download the file from Google Drive link provided below:
+3. Upload the `glove.6B.100d.txt` file for the neural-based approach and upload it in the colab runtime in the files section. You can download the file from Google Drive link provided below:
     https://drive.google.com/drive/folders/1elk41Qhy-ppaZpbeabfiXhoEMO9BLvg5?usp=sharing 
 
 4. **Before User Testing:**
