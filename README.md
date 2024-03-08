@@ -26,14 +26,11 @@ This project provides two approaches for relation extraction classification usin
 
 7. For Both Approaches:
 
-    - After training, users can use the provided `classifier.py` module for classifying new sentences.
+    - After training, users can use the provided `classifier.py` module for classifying new sentences and should include the import statements.
 
     ```python
     # For Approach 1
     from classifier import classify_relation
-    predicted_relation = classify_relation(user_input, model, tokenizer, max_sent_len, word_index, label_encoder)
-
     # For Approach 2
     from classifier import classify_relation_svm
-    predicted_relation = classify_relation_svm(user_input_sentence, stacking_model, vectorizer)
     ```
