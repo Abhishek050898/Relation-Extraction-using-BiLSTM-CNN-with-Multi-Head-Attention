@@ -4,9 +4,9 @@ This project provides two approaches for relation extraction classification usin
 
 ## Usage in Google Colab
 
-1. Open the provided python notebooks in Google Colab.
-    - `Final_Neural_Networks_Model.pynb`
-    - `Final_StackingClassifier_Model.ipynb`
+1. Open the provided python notebooks in Google Colab.   
+    - `Approach 1_StackingClassifier_Model.ipynb`
+    - `Approach 2_Deep_learning_Model.pynb`
 
 2. In the Colab notebook, execute the cells one by one to install the required libraries and load the necessary functions.
 
